@@ -1,6 +1,8 @@
 vendor/
 docker_redis/
 docker_mongo/
+docker_nginx/
+docker_php
 redis/
 config/config.php
 db_patterns/
